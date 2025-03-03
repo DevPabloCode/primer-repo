@@ -1,2 +1,2 @@
 # primer-repo
-repositorio-del-curso
+Mi primer readme
